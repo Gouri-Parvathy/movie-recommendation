@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    text-align: center;
+    padding-top: 40px;
+}
+.selection-wrapper{
+    margin: 40px;
+}
+select{
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.selection{
+    font-weight: bolder;
+}
+.movie{
+    height: 60px;
+    width: 90%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px 0px grey;
+}
+.movie{
+    margin: 30px 0px 0px 40px;
+    padding:10px ;
+}
+.movie-title{
+    font-size: 30px;
+    font-weight: bolder;
+}
+span{
+   font-weight: 600; 
+}
+.space{
+    margin-bottom: 20px;
+}
